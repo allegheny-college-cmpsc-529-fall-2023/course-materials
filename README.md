@@ -2,7 +2,7 @@
 
 # Contents
 
-* [Instructor of Record](#Instructor-on-record)
+* [Instructor of Record](#Instructor-of-record)
 * [Course Structure](#course-structure)
 * [Expectations](#Expectations)
 * [Deliverables](#Deliverables)
@@ -15,6 +15,17 @@
 * Email: dluman@allegheny.edu
 * Telephone: `+1 814 332 2136`
 * Office: Alden Hall, 112 (next to the copier)
+
+### Note
+
+The role of the course instructor in an internship course necessarily differs form a traditional class setting. Namely, this difference
+arises in what the instructor knows; you cannot assume that the instructor has any specific knowledge of a given project's finer, nuanced
+details. Not privy to all of the conversations and working hours that students put into these projects, an instructor in this kind of course
+has value, but _may not have all (or any) of the "answers"_. Much of your work will be dedicated to establishing habits that will serve
+you in a professional context. This includes asking project teams those questions traditionally reserved for instructors.
+
+Instructors _can_, however, serve as a kind of professional mentor -- helping students decide how to phrase a question or figuring out what
+they might need to ask.
 
 ### Office hours
 
