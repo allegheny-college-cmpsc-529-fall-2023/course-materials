@@ -58,7 +58,14 @@ common working hours and asynchronously, as necessary.
 
 ### Course work time
 
+To ensure a level of stability and availability, you will be expected to attend two (2) one-hour sessions each week. At least one of these sessions
+will be scheduled during core working hours (9:00 - 17:00, M-F). Both student and partner availability will dictate when these sessions occur. We 
+do this for two primary reasons:
 
+* to provide a predictable timeframe during which partners can expect questions and/or conduct meetings
+* to dedicate regular time to working on projects in order to allow focused, highly-productive working sessions
+
+These work meetings are _mandatory_, meaning that both the instructor and industrial partners rely on your attendance to complete the work required.
 
 ## Deliverables
 
