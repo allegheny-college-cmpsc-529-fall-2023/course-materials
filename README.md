@@ -29,7 +29,7 @@ they might need to ask.
 
 ### Office hours
 
-|Day(s) of Week            |                    |                          |                  |
+|Day(s) of Week            |                    |          |               |                  |
 |--------------------------|--------------------|--------------------------|------------------|
 |Tuesday                   | 10:00 - 11:00      |Alden 112 |15:20 - 17:00  |Doane 106         |
 |Wednesday                 | 9:00 - 12:00       |Doane 106 |13:30 - 17:00  |Doane 106         |
