@@ -36,6 +36,7 @@ they might need to ask.
 |Tuesday                   | 10:00 - 11:00      |Alden 112 |15:20 - 17:00  |Doane 106         |
 |Wednesday                 | 9:00 - 12:00       |Doane 106 |13:30 - 17:00  |Doane 106         |
 |Thursday                  | 10:00 - 11:00      |Alden 112 |               |                  |
+|Friday                    | 10:00 - 12:00      |Alden 112 |               |                  |
 
 > Please note that my office hours are split between buildings. Before coming to find me in Alden,
 > have a look at the table above. Changes in location will be posted to our course Discord channel.
