@@ -1,5 +1,7 @@
 # CMPSC 529: Internship Course
 
+![Red, blue, yellow and gray striped background featuring a similar colored ID card and the words CMPSC 529 Allegheny College, Fall 2023 Internship](https://raw.githubusercontent.com/allegheny-college-cmpsc-529-fall-2023/course-materials/media/img/CMPSC%20529%20-%20Banner.png)
+
 # Contents
 
 * [Instructor of Record](#Instructor-of-record)
